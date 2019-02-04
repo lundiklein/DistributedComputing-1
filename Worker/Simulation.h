@@ -1,5 +1,9 @@
 #pragma once
 
+/*
+	Simulation class code is Pawel Wysocki's property.
+	You are not allowed to use, copy or distribute it.
+*/
 class Simulation
 {
 
