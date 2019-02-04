@@ -8,8 +8,10 @@ This project is a basic example of distributed computing software. It is compriz
 
 To run this project you need to:
 1) Start up the Server.exe
-2) Run as many Worker.exe as you wish (Worker's/Client's connect to IP is hardcoded, you need to change it in code (default: "127.0.0.1"))
+2) Run as many Worker.exe as you wish. Worker's/Client's connect to IP is hardcoded, you need to change it in code: 
+  - default ip: "127.0.0.1", ports: 6633 and 6635
 3) Run Client.exe to initialize calculations
+
 
 Physics problem analysed:
 Influence of radiation on cell system
