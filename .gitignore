@@ -1,0 +1,15 @@
+.vs/MPI/v15/ipch/
+*.db
+*.opendb
+*.db-shm
+*.db-wal
+Client/Debug/
+Client/x64/
+MPI/x64/
+MPI/Debug/
+Worker/Debug/
+Worker/x64/
+Networking/x64/
+x64/
+*.sdf
+
