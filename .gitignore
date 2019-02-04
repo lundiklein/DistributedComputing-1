@@ -1,11 +1,7 @@
-.vs
-Client/Debug
-Client/x64
-MPI/x64
-MPI/Debug
-Worker/Debug
-Worker/x64
-Networking/x64
-x64
-MPI.sdf
+.vs/
+*/Debug/
+*/x64/
+x64/
+*.sdf
+
 
