@@ -1,0 +1,10 @@
+﻿  dllmain.cpp
+  Network.cpp
+d:\studia\magisterskie - ftj\oef\mpi\network\network.h(41): warning C4091: "__declspec(dllexport)": zignorowano na lewo od "dataPacketHeader" podczas gdy brak deklaracji zmiennej
+d:\studia\magisterskie - ftj\oef\mpi\network\network.h(47): warning C4091: "__declspec(dllexport)": zignorowano na lewo od "isServerRequest" podczas gdy brak deklaracji zmiennej
+d:\studia\magisterskie - ftj\oef\mpi\network\network.h(229): warning C4091: "__declspec(dllexport)": zignorowano na lewo od "networkDataPacket" podczas gdy brak deklaracji zmiennej
+     Trwa tworzenie biblioteki D:\Studia\Magisterskie - FTJ\OEF\MPI\x64\Release\Network.lib i obiektu D:\Studia\Magisterskie - FTJ\OEF\MPI\x64\Release\Network.exp
+  Trwa generowanie kodu
+  All 126 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  Network.vcxproj -> D:\Studia\Magisterskie - FTJ\OEF\MPI\x64\Release\Network.dll

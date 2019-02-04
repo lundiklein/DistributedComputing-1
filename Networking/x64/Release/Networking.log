@@ -1,0 +1,8 @@
+﻿     Creating library D:\Studia\mag\OEF\MPI\x64\Release\Networking\Networking.lib and object D:\Studia\mag\OEF\MPI\x64\Release\Networking\Networking.exp
+  Generating code
+d:\studia\mag\oef\mpi\networking\networking.cpp(132): warning C4715: 'Send': not all control paths return a value
+d:\studia\mag\oef\mpi\networking\networking.cpp(176): warning C4715: 'Recv': not all control paths return a value
+  All 15 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Networking.vcxproj -> D:\Studia\mag\OEF\MPI\x64\Release\Networking\Networking.dll
+  Networking.vcxproj -> D:\Studia\mag\OEF\MPI\x64\Release\Networking\Networking.pdb (Full PDB)
