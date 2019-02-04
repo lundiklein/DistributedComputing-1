@@ -1,5 +1,6 @@
 #pragma once
-
+#include "stdafx.h"
+#include "NetworkCustom.h"
 /*
 	Simulation class code is Pawel Wysocki's property.
 	You are not allowed to use, copy or distribute it.
@@ -284,7 +285,7 @@ public:
 		//	std::cout << "zdrowe: " << zdrowe << "	zmutowane: " << zmutowane << "	rakowe: " << nowotworowe << "	martwe: " << martwe << " t =  " << organizm[0]->lifeTime << std::endl;
 	}
 
-	Simulation();
-	~Simulation();
+	Simulation() {};
+	~Simulation() {};
 };
 

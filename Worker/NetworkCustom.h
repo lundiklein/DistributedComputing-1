@@ -92,7 +92,7 @@ struct ndataPacket
 	}
 };
 
-typedef struct cellDataStruct
+struct cellDataStruct
 {
 
 	uint16_t x, y, lifeTime;
