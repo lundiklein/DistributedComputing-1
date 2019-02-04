@@ -74,10 +74,10 @@ int main(int argc, char** argv)
 	{
 		Sleep(10);
 		char* data = history[ii]->serialize();
-		//	cout << "Send " << ii << " " << history[ii]->citeration << endl;
+		cout << "Send " << ii << " " << history[ii]->citeration << endl;
 		if (!Send(sock, data, sizeof(ndataPacket), NULL, true))
 		{
-			//cout << "Send error " << WSAGetLastError() << " " << my_rank << endl;
+			cout << "Send error " << WSAGetLastError() << " " << endl;
 			ii--;
 		}
 		if (data != nullptr)
