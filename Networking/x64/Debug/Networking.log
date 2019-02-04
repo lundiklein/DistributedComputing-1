@@ -1,7 +1,0 @@
-﻿  pch.cpp
-  dllmain.cpp
-  Networking.cpp
-d:\studia\mag\oef\mpi\networking\networking.cpp(132): warning C4715: 'Send': not all control paths return a value
-d:\studia\mag\oef\mpi\networking\networking.cpp(176): warning C4715: 'Recv': not all control paths return a value
-  Networking.vcxproj -> D:\Studia\mag\OEF\MPI\x64\Debug\Networking\Networking.dll
-  Networking.vcxproj -> D:\Studia\mag\OEF\MPI\x64\Debug\Networking\Networking.pdb (Partial PDB)
